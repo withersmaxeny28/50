@@ -1,0 +1,26 @@
+{
+  "name": "50-kfc-dvfgf",
+  "version": "1.0.0",
+  "description": "A comprehensive online learning management system that enables educators to create and deliver interactive courses, track student progress, and facilitate seamless communication between teachers and students.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/withersmaxeny28/50.git"
+  },
+  "keywords": [
+    "sample",
+    "npm",
+    "package"
+  ],
+  "author": "withersmaxeny28",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "axios": "^0.21.1"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  }
+}
